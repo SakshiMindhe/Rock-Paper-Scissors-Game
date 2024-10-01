@@ -1,6 +1,6 @@
 import streamlit as st 
 
-st.title("My First app")
+st.title("My First Application")
 st.image("giphy.gif")
 
 import random
